@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        // remover seguimentos
+        //Oi,tudobem
         
         topSegControl.removeAllSegments()
         
